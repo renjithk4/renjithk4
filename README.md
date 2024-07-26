@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **renjithprasadk4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VlEsKyCum9HykHOnKr3lgm2DbQClmXm9/view?usp=sharing](https://drive.google.com/file/d/1VlEsKyCum9HykHOnKr3lgm2DbQClmXm9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xRbRPQz90JQTid7KHQKFSAAMjXgmtWud/view?usp=drive_link](https://drive.google.com/file/d/1xRbRPQz90JQTid7KHQKFSAAMjXgmtWud/view?usp=drive_link)
 
 - ⚡ Fun fact **I dance a lot!**
 
