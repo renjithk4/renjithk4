@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renjithk4" alt="renjithk4" /></a> </p>
 
-- 🌱 I’m currently learning **TensorFlow,Pytorch,ML,NLP,CV**
+- 🌱 I’m currently learning **TensorFlow,Pytorch,Front end, Back end,ML,NLP,CV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/renjithk4/renjithk4](https://github.com/renjithk4/renjithk4)
 
