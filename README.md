@@ -36,3 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renjithk4&" alt="renjithk4" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=renjithk4)](https://git.io/streak-stats)
+
